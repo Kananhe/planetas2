@@ -1,0 +1,5 @@
+*.dat # ignora todos los archivos .dat
+!final.dat # excepto el archivo final.dat
+#results/
+/results/data
+results/data/position/gps/*.dat
